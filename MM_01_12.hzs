@@ -1,0 +1,56 @@
+<!DOCTYPE CrossStudio_for_ARM_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints/>
+ <ExecutionProfileWindow/>
+ <Memory1>
+  <MemoryWindow autoEvaluate="0" addressText="" numColumns="8" sizeText="" dataSize="1" radix="16" name="MM_01_12" addressSpace="" />
+ </Memory1>
+ <Memory2>
+  <MemoryWindow autoEvaluate="0" addressText="" numColumns="8" sizeText="" dataSize="1" radix="16" name="MM_01_12" addressSpace="" />
+ </Memory2>
+ <Memory3>
+  <MemoryWindow autoEvaluate="0" addressText="" numColumns="8" sizeText="" dataSize="1" radix="16" name="MM_01_12" addressSpace="" />
+ </Memory3>
+ <Memory4>
+  <MemoryWindow autoEvaluate="0" addressText="" numColumns="8" sizeText="" dataSize="1" radix="16" name="MM_01_12" addressSpace="" />
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="MM_01_12" name="unnamed" />
+  <ProjectSessionItem path="MM_01_12;MM_01_12" name="unnamed" />
+  <ProjectSessionItem path="MM_01_12;MM_01_12;Source Files" name="unnamed" />
+ </Project>
+ <Register1>
+  <RegisterWindow openNodes="CPU - Current Context" binaryNodes="" hiddenNodes="" unsignedNodes="" visibleGroups="CPU - Current Context;CPU" decimalNodes="" octalNodes="" asciiNodes="" name="MM_01_12" />
+ </Register1>
+ <Register2>
+  <RegisterWindow openNodes="CPU - Current Context" binaryNodes="" hiddenNodes="" unsignedNodes="" visibleGroups="CPU - Current Context;CPU" decimalNodes="" octalNodes="" asciiNodes="" name="MM_01_12" />
+ </Register2>
+ <Register3>
+  <RegisterWindow openNodes="CPU - Current Context" binaryNodes="" hiddenNodes="" unsignedNodes="" visibleGroups="CPU - Current Context;CPU" decimalNodes="" octalNodes="" asciiNodes="" name="MM_01_12" />
+ </Register3>
+ <Register4>
+  <RegisterWindow openNodes="CPU - Current Context" binaryNodes="" hiddenNodes="" unsignedNodes="" visibleGroups="CPU - Current Context;CPU" decimalNodes="" octalNodes="" asciiNodes="" name="MM_01_12" />
+ </Register4>
+ <TargetWindow programAction="" uploadFileType="" programLoadAddress="" programSize="" uploadFileName="" uploadMemoryInterface="" programFileName="" uploadStartAddress="" programFileType="" uploadSize="" programMemoryInterface="" />
+ <TraceWindow>
+  <Trace enabled="Yes" />
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never" />
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never" />
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never" />
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never" />
+ </Watch4>
+ <Files>
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="32" debugPath="C:\Users\Student_PL\Desktop\MM laby ARM 2\MM laby ARM\main.c" y="171" path="C:\Users\Student_PL\Desktop\MM laby ARM 2\MM laby ARM\main.c" left="0" selected="1" name="unnamed" top="159" />
+  <SessionOpenFile useTextEdit="1" useBinaryEdit="0" codecName="Latin1" x="0" debugPath="C:\Users\Student_PL\Desktop\MM laby ARM 2\MM laby ARM\pcf8833u8_lcd.c" y="191" path="C:\Users\Student_PL\Desktop\MM laby ARM 2\MM laby ARM\pcf8833u8_lcd.c" left="0" selected="0" name="unnamed" top="379" />
+ </Files>
+ <ARMCrossStudioWindow activeProject="MM_01_12" autoConnectTarget="SEGGER J-Link" debugSearchFileMap="" fileDialogInitialDirectory="C:\Users\Student_PL\Desktop\MM laby ARM 2\MM laby ARM" fileDialogDefaultFilter="" autoConnectCapabilities="388479" debugSearchPath="" buildConfiguration="ARM Flash Release" />
+</session>
